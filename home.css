@@ -1,0 +1,46 @@
+.navbar-nav > li{
+    margin-left:20px;
+    margin-right:20px;
+   
+  }
+
+  .page-footer {
+    margin-left: auto;
+   margin-right: auto;
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#2B4664;
+    color: white;
+    padding-top: 4%;
+    
+ }
+ .social {
+  padding: 10px;
+  max-width:60px;
+}
+  
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+.no-padding {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.container-fluid .content {
+  position: absolute;
+  bottom: 0;
+  background:  rgba(0, 0, 0, 0.5);/* Fallback color */
+  background:  #2B4664;/* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+  opacity: 0.7;
+}
+.row{
+  bottom: 0;
+}
