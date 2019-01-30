@@ -141,7 +141,7 @@
 }
 
 li {
-  width: 33.3%;
+  /* width: 33.3%; */
   float: left;
   list-style-type: none;
 }
