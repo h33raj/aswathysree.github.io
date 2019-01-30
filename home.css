@@ -41,19 +41,27 @@
   padding: 20px;
   opacity: 0.7;
 }
-/* .circle{
-   width: 200px;
-   height: 200px;
-   background-clip: yellow;
-   border-radius: 10px;
-} */
-
-.circle1 {
+.circle{
+  border-radius: 50%;
+  width: 100%;
+  padding-bottom: 100%;
+  background:white;
+  
+  box-shadow:  0 0 10px  rgba(0,0,0,0.6);
+}
+.box{
+  width:10%;
+  margin: auto;
+  /* border: 1px solid #73AD21; */
+  box-shadow:  0 0 10px  rgba(0,0,0,0.6);
+}
+/* .circle {
   border-radius: 50%;
   width: 100%;
   padding-bottom: 100%;
   background: white;
   margin-left: 24%;
+  
   
   box-shadow:  0 0 10px  rgba(0,0,0,0.6);
 
@@ -70,10 +78,11 @@
 }
 .circle3 {
   border-radius: 50%;
-  width: 80%;
-  padding-bottom: 80%;
+  width: 90%;
+  padding-bottom: 90%;
   background: white;
-  margin-left: 24%;
+  margin-right: 24%;
+  margin-bottom: 0px !important;
   
   box-shadow:  0 0 10px  rgba(0,0,0,0.6);
 
@@ -81,21 +90,69 @@
 
 .circle4 {
   border-radius: 50%;
-  width: 70%;
-  padding-bottom: 70%;
+  width: 80%;
+  padding-bottom: 80%;
   background: white;
   margin-left: 24%;
+  margin-bottom: 0px !important;
   
   box-shadow:  0 0 10px  rgba(0,0,0,0.6);
 
 }
 .circle5 {
   border-radius: 50%;
-  width: 60%;
-  padding-bottom: 60%;
+  width: 90%;
+  padding-bottom: 90%;
   background: white;
   margin-left: 24%;
   
   box-shadow:  0 0 10px  rgba(0,0,0,0.6);
 
+} */
+
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+/* to center flex-items */
+.flex-item {
+   margin: auto;
+}
+
+.rect{  
+  margin:0 0 20px;
+  padding: 20px;
+  /* border:2px solid #333; */
+  width 80%;
+  text-align:center;
+  box-shadow:  0 0 10px  rgba(0,0,0,0.6);
+
+}
+.header{
+   margin:0 auto;
+   padding: 5px 10px;
+   width:90%;
+   /* border:2px solid #333; */
+   box-shadow:  0 0 10px  rgba(0,0,0,0.6);
+
+}
+
+li {
+  width: 33.3%;
+  float: left;
+  list-style-type: none;
+}
+
+#small-img2 {
+  padding-top: 10%;
+  border: 0 none;
+  display: inline-block;
+  height: auto;
+  max-width: 60%;
+  vertical-align: middle;
+  align: center;
+  
 }
