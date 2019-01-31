@@ -153,6 +153,23 @@ li {
   height: auto;
   max-width: 60%;
   vertical-align: middle;
-  align: center;
+ 
   
+}
+.check{
+/* margin:0 0 20px; */
+  padding: 20px;
+  /* border:2px solid #333; */
+  width :100%;
+  text-align:center;
+}
+h3{
+  text-align: left;
+  margin-left: 19%;
+
+}
+
+.about{
+  padding: 20%;
+  margin-left: -20%;
 }
