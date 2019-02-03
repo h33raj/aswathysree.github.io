@@ -44,7 +44,15 @@
 .circle{
   border-radius: 50%;
   width: 100%;
-  padding-bottom: 100%;
+  padding-bottom: 25%;
+  background:white;
+  
+  box-shadow:  0 0 10px  rgba(0,0,0,0.6);
+}
+.circle1{
+  border-radius: 50%;
+  width: 100%;
+  padding-bottom: 30%;
   background:white;
   
   box-shadow:  0 0 10px  rgba(0,0,0,0.6);
@@ -172,4 +180,9 @@ h3{
 .about{
   padding: 20%;
   margin-left: -20%;
+}
+
+.circle-img {
+  width: 60%;
+  margin-top: 30px;
 }
