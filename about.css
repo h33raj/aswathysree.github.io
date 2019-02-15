@@ -1,3 +1,25 @@
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans:600,300,700);
+@import url(http://fonts.googleapis.com/css?family=Raleway:300,300,700);
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web:300,300,700);
+
+
+.small{
+  
+  font-family: "Raliway";
+}
+
+.medium{
+  
+  font-family: "Titillium Web";
+}
+.mediums{
+  
+  font-family: "josphin sans";
+}
+.large{
+  font-size: 32px;
+  font-family: "josphin sans";
+}
 .navbar-nav > li{
     margin-left:20px;
     margin-right:20px;

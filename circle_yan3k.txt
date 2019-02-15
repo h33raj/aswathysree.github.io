@@ -1,0 +1,113 @@
+
+  <!--   first row -->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <div class="circle">
+          <div class="row">
+            <div class="col-12 text-center">
+              <img src="images/computer1.png" class="circle-img">
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-12 text-center" style="padding:0 10%">
+              Robotic Process Automation (RPA), RPA feasibility & implementation
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-12 text-center">
+              <a><u><font size="2" color="blue"> Discover more</font></u></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 offset-md-4">
+        <div class="circle">
+          <div class="row">
+            <div class="col-12 text-center">
+              <img src="images/computer2.png" class="circle-img">
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-12 text-center" style="padding:0 10%">
+              development of Digital(web & mobile) application across value chain
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-12 text-center">
+              <a><u><font size="2" color="blue"> Discover more</font></u></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- circle  second row -->
+
+    <div class="row">
+
+      <div class="offset-md-4 col-sm-4 text-center">
+
+        <div class="circle1" style="background:#D8EDF9;">
+          <div class="row" style="padding:18%">
+            <div class="col-12 text-center">
+              <h2 style="    margin-top: 31%;">Our services</h2>
+
+            </div>
+          </div>
+
+
+          <div class="row">
+            <div class="col-12 text-center">
+              <h4 style="    margin-top: -16%;"> Digitization & Automation</h4>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- circle  second row -->
+    <div class="row">
+      <div class="col-md-4">
+        <div class="circle">
+          <div class="row">
+            <div class="col-12 text-center">
+              <img src="images/rsz_computer3.png" class="circle-img">
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-12 text-center" style="padding:0 10%">
+              Opportunity identification & implementation of ChatBots powered by Artificial Intelligence(AI)
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-12 text-center">
+              <a><u><font size="2" color="blue"> Discover more</font></u></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 offset-md-4">
+        <div class="circle">
+          <div class="row">
+            <div class="col-12 text-center">
+              <img src="images/computer4.png" class="circle-img">
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-12 text-center" style="padding:0 10%">
+              Cyber security soultion across different verticals
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-12 text-center">
+              <a><u><font size="2" color="blue"> Discover more</font></u></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <br>
