@@ -76,8 +76,8 @@
   /* border:2px solid #333; */
   width :100%;
   text-align:center;
-  box-shadow:  0 0 10px  rgba(0,0,0,0.6);
-  
+  /* box-shadow:  0 0 10px  rgba(0,0,0,0.6); */
+  margin-top: 10%;
   }
   .header{
    margin:0 auto;
@@ -147,3 +147,8 @@
   .a{
     color:blue;
   }
+
+  .skyblue{
+    background:#D8EDF9;
+    padding-bottom: -5%;
+}
