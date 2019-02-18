@@ -6,11 +6,11 @@
 
 
   .navbar-nav > .active {
-    color:rgb(17, 0, 255)!important;  **// THIS DOES NOT WORK**
+    color:#1078B4!important;  **// THIS DOES NOT WORK**
     background-color: chartreuse; **//THIS WORKS**
   }
   .nav-item > a:hover {
-    color:rgb(17, 0, 255)!important;
+    color: #1078B4!important;
   }
   .page-footer {
    
@@ -233,7 +233,7 @@ h5{
     background-color: white;
     width: 300px;
     height:300px;
-    border: 10px solid #bbbcbf;
+    border: 10px solid #1078B4;
     padding: 25px;
     margin: 25px;
     border-radius: 25px;

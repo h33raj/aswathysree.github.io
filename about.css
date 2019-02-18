@@ -1,36 +1,36 @@
-@import url(http://fonts.googleapis.com/css?family=Josefin+Sans:600,300,700);
-@import url(http://fonts.googleapis.com/css?family=Raleway:300,300,700);
-@import url(http://fonts.googleapis.com/css?family=Titillium+Web:300,300,700);
 
+@import url('https://fonts.googleapis.com/css?family=Alike|Prociono|');
 
-.small{
-  
-  font-family: "Raliway";
+h1{
+  font-family: 'Alike';
+}
+p{
+  font-family: 'Prociono';
+  font-size: 18px;
+}
+h2{
+  font-family: 'Alike';
+  font-size: 30px;
+}
+h3{
+  font-family: 'Alike';
+  font-size: 30px;
+}
+h4{
+  font-family: 'Alike';
 }
 
-.medium{
-  
-  font-family: "Titillium Web";
-}
-.mediums{
-  
-  font-family: "josphin sans";
-}
-.large{
-  font-size: 32px;
-  font-family: "josphin sans";
-}
 .navbar-nav > li{
     margin-left:20px;
     margin-right:20px;
    
   }
   .navbar-nav > .active {
-    color:rgb(17, 0, 255)!important;  **// THIS DOES NOT WORK**
+    color:#1078B4!important;  **// THIS DOES NOT WORK**
     background-color: chartreuse; **//THIS WORKS**
   }
   .nav-item > a:hover {
-    color:rgb(17, 0, 255)!important;
+    color:#1078B4!important;
   }
 
   .page-footer {

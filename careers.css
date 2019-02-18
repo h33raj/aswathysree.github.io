@@ -6,11 +6,11 @@
 
 
   .navbar-nav > .active {
-    color:rgb(17, 0, 255)!important;  **// THIS DOES NOT WORK**
+    color:#1078B4!important;  **// THIS DOES NOT WORK**
     background-color: chartreuse; **//THIS WORKS**
   }
   .nav-item > a:hover {
-    color:rgb(17, 0, 255)!important;
+    color:#1078B4!important;
   }
   .page-footer {
    

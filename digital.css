@@ -1,3 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css?family=Alike|Prociono|');
+
+h1{
+  font-family: 'Alike';
+}
+
+p{
+  font-family: 'Prociono';
+  font-size: 18px;
+}
+h2{
+  font-family: 'Alike';
+  font-size: 30px;
+}
+h3{
+  font-family: 'Alike';
+  font-size: 30px;
+}
+
+h4{
+  font-family: 'Alike';
+  font-size: 25px;
+}
 .navbar-nav > li{
   margin-left:20px;
   margin-right:20px;
@@ -192,5 +216,5 @@ width:80px;float:left
 
 }
 h4 {
-  color: blue;
+  color:#1078B4;
 }
