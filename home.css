@@ -13,11 +13,13 @@ p{
 h2{
   font-family: 'Alike';
   font-size: 30px;
+  color:#1078B4;
  
 }
 h3{
   font-family: 'Alike';
   font-size: 30px;
+  color:#1078B4;
 }
 
 /* h5{
@@ -188,6 +190,7 @@ padding: 20px;
 width :100%;
 text-align:center;
 box-shadow:  0 0 5px  rgba(0,0,0,0.6);
+padding-top:4%;
 
 }
 .header{
@@ -225,6 +228,7 @@ text-align:center;
 h3{
 text-align: left;
 margin-left: 19%;
+color:
 
 }
 
@@ -301,4 +305,28 @@ margin-left:25%;
   margin-top:5%;
   font-size:90%;
   text-align: center;
+}
+.board {
+  width: 100%;
+  background-color: #FAFDFF;
+  box-shadow: 10px 10px 10px rgba(68, 68, 68, 0.6);
+  margin-top: 5%;
+}
+.m{
+  font-family:'Source Sans Pro', sans-serif; 
+}
+#p{
+  width: 100%;
+  position: relative;
+  margin-top:25%;
+}
+#te{
+  text-align: left;
+  font-family: 'Source Sans Pro', sans-serif; 
+  margin-top:5%;
+}
+#pe{
+  color:#1078B4;
+  font-size: 80%;
+  cursor: pointer;
 }
