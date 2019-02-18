@@ -1,5 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css?family=Alike|Prociono|');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 
 h1{
   font-family: 'Alike';
@@ -250,4 +251,14 @@ margin-top: 30px;
   text-align:justify;
   padding-top: 2%;
   width: 100%;
+}
+.img-th{
+  position: absolute;
+  width: 15%;
+  /* height: 20%; */
+}
+.fon{
+    
+  font-family:'Source Sans Pro', sans-serif;
+  font-weight: 700;
 }
