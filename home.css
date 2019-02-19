@@ -177,6 +177,8 @@ h3{
 text-align: left;
 margin-left: 19%;
 /* color:  */
+color: #1078B4;
+font-family: 'Alike';
 
 }
 
@@ -258,7 +260,7 @@ text-align:center;
 .board {
   width: 100%;
   background-color: #FAFDFF;
-  box-shadow: 5px 5px 5px #E1EcF3;
+  /* box-shadow: 5px 5px 5px #E1EcF3; */
   margin-top: 13%;
   padding-bottom: 13%;
 }
@@ -296,6 +298,7 @@ text-align:center;
   color:#1078B4;
   font-size: 80%;
   cursor: pointer;
+  font-weight: 900;
 }
 #t{
   font-family: 'Source Sans Pro', sans-serif; 
