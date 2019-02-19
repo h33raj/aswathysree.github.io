@@ -261,7 +261,7 @@ text-align:center;
 .board {
   width: 100%;
   background-color: #FAFDFF;
-  /* box-shadow: 5px 5px 5px #E1EcF3; */
+  box-shadow: 5px 5px 5px #E1EcF3;
   margin-top: 13%;
   padding-bottom: 13%;
 }
