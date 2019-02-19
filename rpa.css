@@ -17,7 +17,7 @@ h3{
   font-size: 30px;
  }
 h4{
-  font-family: 'Prociono';
+  font-family: 'Alike';
   font-size: 25px;
   color: #1078B4;
 } */
@@ -27,6 +27,9 @@ h5{
   font-size: 20px;
 }
 
+.cl{
+  margin-top: -74%;
+}
 
 .navbar-nav > li{
     margin-left:20px;
@@ -161,16 +164,14 @@ h5{
   width:80px;float:left
   
   }
-  h4 {
-    color: blue;
-  }
+  
 
   .rpa{
     padding-top:5%;
     background-color: #5DAFD4;
     color:white;
   }
-  adjust{
+  .adjust{
     margin-left:2%;
     margin-right: 2%;
   }
@@ -200,4 +201,9 @@ h5{
   position: relative;
   margin-top:-20%;
   margin-left:2%;
+}
+.fonsize{
+  font-size: 18px;
+  font-weight: 300;
+  font-family: 'Source sans pro';
 }
