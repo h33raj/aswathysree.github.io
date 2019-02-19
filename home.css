@@ -258,9 +258,9 @@ text-align:center;
 .board {
   width: 100%;
   background-color: #FAFDFF;
-  box-shadow: 10px 10px 10px rgba(68, 68, 68, 0.6);
-  margin-top: 5%;
-  padding-bottom: 3%;
+  box-shadow: 5px 5px 5px #E1EcF3;
+  margin-top: 13%;
+  padding-bottom: 13%;
 }
 .m{
   font-family:'Source Sans Pro', sans-serif; 
