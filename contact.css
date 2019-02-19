@@ -50,3 +50,37 @@ padding-top:16%;
   font-family:'Source Sans Pro', sans-serif;
 
 }
+.map-responsive{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+  margin-top:55%;
+}
+.map-responsive iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+  
+}
+#us{
+  padding-top:15%;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+.b{
+  border-radius: 15px 15px 15px 15px;
+  width: 100%;
+  height: 50px;
+  margin-top:5%;
+  box-shadow: 5px 5px 5px #E1EcF3;
+}
+.b1{
+  border-radius: 15px 15px 15px 15px;
+  width: 100%;
+  height: 90px;
+  margin-top:5%;
+  box-shadow: 5px 5px 5px #E1EcF3;
+}
