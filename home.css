@@ -17,10 +17,13 @@ h4{
 }
 .hed{
   color: #807F95;
+  font-family: 'Source Sans Pro', sans-serif; 
 }
+
 .fonsize{
   font-size: 18px;
   font-weight: 300;
+  font-family: 'Source sans pro';
 }
 
 /* h5{
@@ -34,9 +37,6 @@ h4{
   display: inline-block;
 }
 
-.navbar{
-  padding-
-}
 .navbar-nav > .active {
   color:#1078B4!important;  **// THIS DOES NOT WORK**
   background-color: chartreuse; **//THIS WORKS**
@@ -117,60 +117,7 @@ box-shadow:  0 0 10px 	#5DBCD2;
 }
 
 
-/* .circle {
-border-radius: 50%;
-width: 100%;
-padding-bottom: 100%;
-background: white;
-margin-left: 24%;
 
-
-box-shadow:  0 0 10px  rgba(0,0,0,0.6);
-
-}
-.circle2 {
-border-radius: 50%;
-width: 90%;
-padding-bottom: 90%;
-background: white;
-margin-left: 24%;
-
-box-shadow:  0 0 10px  rgba(0,0,0,0.6);
-
-}
-.circle3 {
-border-radius: 50%;
-width: 90%;
-padding-bottom: 90%;
-background: white;
-margin-right: 24%;
-margin-bottom: 0px !important;
-
-box-shadow:  0 0 10px  rgba(0,0,0,0.6);
-
-}
-
-.circle4 {
-border-radius: 50%;
-width: 80%;
-padding-bottom: 80%;
-background: white;
-margin-left: 24%;
-margin-bottom: 0px !important;
-
-box-shadow:  0 0 10px  rgba(0,0,0,0.6);
-
-}
-.circle5 {
-border-radius: 50%;
-width: 90%;
-padding-bottom: 90%;
-background: white;
-margin-left: 24%;
-
-box-shadow:  0 0 10px  rgba(0,0,0,0.6);
-
-} */
 
 .flex-container {
 display: flex;
@@ -300,11 +247,13 @@ text-align:center;
     margin-right:2%;
     font-size: 90%;
     text-align: center;
+    font-family: 'Source sans pro';
   }
 #cir{
   margin-top:5%;
   font-size:90%;
   text-align: center;
+  font-family: 'Source sans pro';
 }
 .board {
   width: 100%;
