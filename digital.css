@@ -218,3 +218,13 @@ width:80px;float:left
 h4 {
   color:#1078B4;
 }
+.im{
+  position: absolute;
+  width: 15%;
+  /* height: 20%; */
+}
+.fon{
+
+  font-family:'Source Sans Pro', sans-serif;
+  font-weight: 700;
+}

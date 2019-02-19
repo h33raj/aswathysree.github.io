@@ -1,26 +1,12 @@
 
-@import url('https://fonts.googleapis.com/css?family=Alike|Prociono|');
+@import url('https://fonts.googleapis.com/css?family=Alike');
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 
 h1{
   font-family: 'Alike';
 }
 
-p{
-  font-family: 'Prociono';
-  font-size: 18px;
-}
-h2{
-  font-family: 'Alike';
-  font-size: 30px;
-  color:#1078B4;
- 
-}
-h3{
-  font-family: 'Alike';
-  font-size: 30px;
-  color:#1078B4;
-}
+
 
 /* h5{
   font-family: 'Alike';
@@ -276,7 +262,7 @@ margin-left:25%;
  padding-top:3%;
   text-align: center;
 }
-#cir{
+#c
   font-size: 90%;
   text-align: center;
 }
@@ -311,6 +297,7 @@ margin-left:25%;
   background-color: #FAFDFF;
   box-shadow: 10px 10px 10px rgba(68, 68, 68, 0.6);
   margin-top: 5%;
+  padding-bottom: 3%;
 }
 .m{
   font-family:'Source Sans Pro', sans-serif; 

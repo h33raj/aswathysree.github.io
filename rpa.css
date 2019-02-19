@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Alike|Prociono|');
-
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 h1{
   font-family: 'Alike';
 }
@@ -181,4 +181,23 @@ h5{
   .skyblue{
     background:#D8EDF9;
     padding-bottom: -5%;
+}
+.img-th{
+  position: absolute;
+  width: 15%;
+  /* height: 20%; */
+}
+.fon{
+
+  font-family:'Source Sans Pro', sans-serif;
+  font-weight: 700;
+}
+#sh{
+  text-align: left;
+  width: 100%;
+  padding-bottom:4%;
+  font-family:'Source Sans Pro', sans-serif;
+  position: relative;
+  margin-top:-20%;
+  margin-left:2%;
 }
