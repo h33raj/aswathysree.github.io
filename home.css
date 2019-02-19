@@ -265,6 +265,23 @@ text-align:center;
 .m{
   font-family:'Source Sans Pro', sans-serif; 
 }
+#pa{
+  padding-left: 34%;
+  color:#3E83AB;
+  font-size: 80%;
+  cursor: pointer;
+ 
+ font-weight: 900;
+ 
+}
+#pa1{
+  padding-left: 34%;
+  color:#3E83AB;
+  font-size: 80%;
+  cursor: pointer;
+  margin-top: 12%;
+  font-weight: 900;
+}
 #p{
   width: 100%;
   position: relative;
