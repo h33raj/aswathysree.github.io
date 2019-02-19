@@ -15,7 +15,13 @@ h4{
   font-family: 'Alike';
   color: #1078B4;
 }
-
+.hed{
+  color: #807F95;
+}
+.fonsize{
+  font-size: 18px;
+  font-weight: 300;
+}
 
 /* h5{
   font-family: 'Alike';
@@ -279,7 +285,7 @@ text-align:center;
 .cir-img {
   width: 40%;
   margin-top: 13%;
-  margin-left:22%;
+  margin-left:29%;
   
   }
 
