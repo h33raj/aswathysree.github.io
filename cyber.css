@@ -42,6 +42,7 @@
   }
   h1{
     font-family: 'Alike';
+    color:white;
   }
   .page-footer {
    
@@ -74,7 +75,7 @@
   position: absolute;
   bottom: 0;
   background:  rgba(0, 0, 0, 0.5);/* Fallback color */
-  background:  #2B4664;/* Black background with 0.5 opacity */
+  background:  rgba(15,80,118,100%); /* Black background with 0.5 opacity */x`
   color: #f1f1f1;
   width: 100%;
   padding: 20px;
@@ -120,10 +121,11 @@
 .rect{  
   margin:0 0 20px;
   padding: 20px;
+  background:#D8EDF9;
+    padding-bottom: -5%;
+    text-align: left
   /* border:2px solid #333; */
-  width :100%;
 
-  text-align:center;
   /* box-shadow:  0 0 10px  rgba(0,0,0,0.6); */
 
 }
@@ -170,13 +172,6 @@ h3{
   margin-left: -20%;
 }
 
-
-
-
-.skyblue{
-    background:#D8EDF9;
-    padding-bottom: -5%;
-}
 .new{
     text-align:justify;
     padding-top: 2%;
@@ -207,12 +202,14 @@ h5{
      padding-left:12%; 
   }
 
-  .squre{
-    background-color: white;
-    width: 300px;
-    height:300px;
-    border: 10px solid #1078B4;
-    padding: 25px;
-    margin: 25px;
-    border-radius: 25px;
+  .pq{
+    color:white;
+  }
+  .b{
+    background-color: #B41047;
+  }
+
+  .el{
+    margin-left:-20%;
+    /* padding-top:10%; */
   }

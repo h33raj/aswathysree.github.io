@@ -85,7 +85,7 @@ h5{
   position: absolute;
   bottom: 0;
   background:  rgba(0, 0, 0, 0.5);/* Fallback color */
-  background:  #2B4664;/* Black background with 0.5 opacity */
+  background:  rgba(15,80,118,100%); /* Black background with 0.5 opacity */
   color: #f1f1f1;
   width: 100%;
   padding: 20px;
@@ -210,3 +210,23 @@ h5{
     margin-top:5%;
     padding-left:15%;
   }
+  .sh1{
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    font-family:'Source Sans Pro', sans-serif;
+    position: relative;
+    margin-top:-15%;
+    padding-left:10%;
+    text-shadow:10px 10px 20px black;
+}
+@media (max-width: 500px){
+  .sh1{
+    color:#fff;
+    position: relative;
+    padding-top:-30%;
+    margin-top:-50%;
+    padding-left:5%;
+    text-shadow:4px 4px 10px black;
+  }
+}
