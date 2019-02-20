@@ -137,7 +137,7 @@ padding: 20px;
 /* border:2px solid #333; */
 width :100%;
 text-align:center;
-box-shadow:  0 0 5px  rgba(0,0,0,0.6);
+box-shadow:  0 0 2px  rgba(0,0,0,0.6);
 padding-top:4%;
 
 }
@@ -263,8 +263,8 @@ text-align:center;
 }
 .board {
   width: 100%;
-  background-color: #FAFDFF;
-  box-shadow: 5px 5px 5px #E1EcF3;
+  background-color:#FAFDFF;
+  box-shadow: 2px 2px 2px #E1EcF3;
   margin-top: 13%;
   padding-bottom: 13%;
 }
@@ -324,4 +324,7 @@ text-align:center;
   font-size:90%;
   text-align: center;
   font-family: 'Source sans pro';
+}
+.want{
+  padding-top: 15%;
 }

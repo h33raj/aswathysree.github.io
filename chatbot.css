@@ -1,13 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Alike|Prociono|');
+@import url('https://fonts.googleapis.com/css?family=Alike');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 
 h1{
   font-family: 'Alike';
 }
 
-p{
-  font-family: 'Prociono';
-  font-size: 18px;
-}
+
 h2{
   font-family: 'Alike';
   font-size: 30px;
@@ -27,6 +25,28 @@ h5{
   font-size: 20px;
 }
 
+.img-th{
+  position: absolute;
+  width: 15%;
+  /* height: 20%; */
+}
+.fon{
+
+  font-family:'Source Sans Pro', sans-serif;
+  font-weight: 700;
+  
+}
+
+
+#sh{
+  text-align: left;
+  width: 100%;
+  padding-bottom:4%;
+  font-family:'Source Sans Pro', sans-serif;
+  position: relative;
+  margin-top:-15%;
+  margin-left:2%;
+}
 
 .navbar-nav > li{
     margin-left:20px;
@@ -93,60 +113,7 @@ h5{
   /* border: 1px solid #73AD21; */
   box-shadow:  0 0 10px  rgba(0,0,0,0.6);
   }
-  /* .circle {
-  border-radius: 50%;
-  width: 100%;
-  padding-bottom: 100%;
-  background: white;
-  margin-left: 24%;
-  
-  
-  box-shadow:  0 0 10px  rgba(0,0,0,0.6);
-  
-  }
-  .circle2 {
-  border-radius: 50%;
-  width: 90%;
-  padding-bottom: 90%;
-  background: white;
-  margin-left: 24%;
-  
-  box-shadow:  0 0 10px  rgba(0,0,0,0.6);
-  
-  }
-  .circle3 {
-  border-radius: 50%;
-  width: 90%;
-  padding-bottom: 90%;
-  background: white;
-  margin-right: 24%;
-  margin-bottom: 0px !important;
-  
-  box-shadow:  0 0 10px  rgba(0,0,0,0.6);
-  
-  }
-  
-  .circle4 {
-  border-radius: 50%;
-  width: 80%;
-  padding-bottom: 80%;
-  background: white;
-  margin-left: 24%;
-  margin-bottom: 0px !important;
-  
-  box-shadow:  0 0 10px  rgba(0,0,0,0.6);
-  
-  }
-  .circle5 {
-  border-radius: 50%;
-  width: 90%;
-  padding-bottom: 90%;
-  background: white;
-  margin-left: 24%;
-  
-  box-shadow:  0 0 10px  rgba(0,0,0,0.6);
-  
-  } */
+ 
   
   .flex-container {
   display: flex;
