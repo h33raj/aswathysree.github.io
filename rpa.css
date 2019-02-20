@@ -27,9 +27,7 @@ h5{
   font-size: 20px;
 }
 
-.cl{
-  margin-top: -74%;
-}
+
 
 .navbar-nav > li{
     margin-left:20px;
@@ -67,8 +65,8 @@ h5{
   .container-fluid .content {
   position: absolute;
   bottom: 0;
-  background:  rgba(0, 0, 0, 0.5);/* Fallback color */
-  background:  #2B4664;/* Black background with 0.5 opacity */
+  background:  rgba(0, 0, 0, 0.5);/*Fallback color*/
+  background:  #2B4664;/*Black background with 0.5 opacity*/
   color: #f1f1f1;
   width: 100%;
   padding: 20px;
@@ -200,7 +198,7 @@ h5{
   font-family:'Source Sans Pro', sans-serif;
   position: relative;
   margin-top:-20%;
-  margin-left:2%;
+ 
 }
 .fonsize{
   font-size: 18px;

@@ -113,10 +113,14 @@ h4{
     font-family:'Source Sans Pro', sans-serif;
     position: relative;
     margin-top:-18%;
-    margin-left:2%;
+    
   }
   .fonsize{
   font-size: 18px;
   font-weight: 300;
   font-family: 'Source sans pro';
+}
+.want{
+  padding-top: 10%;
+  text-align: center;
 }
