@@ -207,6 +207,9 @@ h5{
   }
   .b{
     background-color: #B41047;
+    height: 55%;
+    width: 20%;
+    position: relative;
   }
 
   .el{
