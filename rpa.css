@@ -186,7 +186,9 @@ h5{
   position: absolute;
   width: 15%;
   /* height: 20%; */
+  /* padding-top:-20%; */
 }
+
 .fon{
 
   font-family:'Source Sans Pro', sans-serif;
@@ -292,7 +294,7 @@ h5{
 .cl{
   position: relative;
   margin-top:-35%;
-  width: 100%;
+  width: 70%;
 }
 @media(max-width:600px){
   .cl{
@@ -307,4 +309,26 @@ h5{
     margin-left:90%;
     margin-top:-50%;
   }
+}
+#l{
+  margin-top:10%; 
+  padding-left:3%;
+}
+#b{
+margin-top:10%; 
+padding-left:10%;
+}
+
+a:link{
+  color:#1078B4;
+}
+
+a:visited{
+  color:#1078B4;
+}
+a:hover{
+  color:#1078B4;
+}
+a:active{
+  color:#1078B4;
 }
