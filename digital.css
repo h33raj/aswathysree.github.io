@@ -247,10 +247,10 @@ width: 100%;
   color:white;
   font-size:50px;
 }
-@media(max-width:600px){
+@media(max-width:700px){
   .sh{
   font-size:60%;
-  margin-top:-40%;
+  margin-top:-46%;
   font-family: 'Source Sans Pro', sans-serif; 
  }
 }
