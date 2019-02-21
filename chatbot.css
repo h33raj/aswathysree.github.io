@@ -4,8 +4,14 @@
 h1{
   font-family: 'Alike';
 }
+.p1{
+  text-align:justify;
+  padding-top: 2%;
+}
 
-
+p{
+  font-family: 'Source Sans Pro', sans-serif;
+}
 h2{
   font-family: 'Alike';
   font-size: 30px;
@@ -189,12 +195,12 @@ h5{
   
   }
   h4 {
-    color: blue;
+    color:#1078B4;
   }
 
   .chat{
       margin-left:2%;
-      color: blue;
+      color:#1078B4;
       margin-top: 10%;
       margin-bottom: 10%;
       margin-right:2%;
@@ -269,10 +275,10 @@ h5{
   /* padding-bottom:8%; */
  
   position: relative;
-  margin-top:-40%;  
+  margin-top:-48%;  
   left:2%;
   color:white;
-  font-size:50px;
+  
 }
 @media(max-width:600px){
   .sh{
@@ -295,4 +301,7 @@ h5{
       margin-top:-46%;
       font-family: 'Source Sans Pro', sans-serif; 
   }
+}
+.colo{
+  color:#1078B4;
 }

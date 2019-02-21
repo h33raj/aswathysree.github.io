@@ -5,7 +5,7 @@ h1{
   font-family: 'Alike';
 }
 p{
-  font-family: 'Prociono';
+  
   font-size: 18px;
 }
 h2{
@@ -16,7 +16,7 @@ h2{
 }
 #our{
   text-align: left;
-  padding-top: 10%;
+  padding-top: 5%;
 }
 .m{
   font-family:'Source Sans Pro', sans-serif; 
@@ -140,6 +140,6 @@ h4{
   font-family: 'Source sans pro';
 }
 .want{
-  padding-top: 10%;
+  padding-top: 8%;
   text-align: center;
 }

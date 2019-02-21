@@ -31,11 +31,12 @@
   }
   
   
+  
   .sh{
     text-align: left;
     width: 100%;
     padding-bottom:8%;
-    font-family:'Source Sans Pro', sans-serif;
+    font-family:'Alike';
     position: relative;
     margin-top:-50%;  
     left:2%;
@@ -61,7 +62,7 @@
   h1{
     font-family: 'Alike';
     color:#1078B4;
-    font-size:50px;
+    /* font-size:50px; */
 }
 
   .page-footer {
@@ -95,7 +96,7 @@
   position: absolute;
   bottom: 0;
   background:  rgba(0, 0, 0, 0.5);/* Fallback color */
-  background:  rgba(15,80,118,100%); /* Black background with 0.5 opacity */x`
+  background:  rgba(15,80,118,100%); /* Black background with 0.5 opacity */
   color: #f1f1f1;
   width: 100%;
   padding: 20px;
@@ -141,6 +142,7 @@
 .rect{  
   margin:0 0 20px;
   padding: 20px;
+  margin-top: 6%;
   background:#D8EDF9;
     padding-bottom: -5%;
     text-align: left
@@ -198,11 +200,11 @@ h3{
     width: 100%;
 }
 h5{
-    color: blue;
+    color:#1078B4;
 }
 
 .bu {
-    background-color: blue; /* blue */
+    background-color: #1078B4; /* blue */
    border-radius: 50px;
    color: white;
    padding: 15px 32px;
@@ -211,7 +213,8 @@ h5{
   position: relative;
   font-size: 16px;
   margin: 4px 2px;
-  cursor: pointer;   
+  cursor: pointer;  
+  margin-left: 32%; 
   }
   .move{
     padding-top:45%;
@@ -231,14 +234,16 @@ h5{
       padding-right: 10%;
     }
   }
-  .b{
-    background-color: #B41047;
-    height: 55%;
-    width: 20%;
-    position: relative;
-  }
-
+  
   .el{
     margin-left:-20%;
     /* padding-top:10%; */
+  }
+  .ml{
+    margin-left:-20%;
+    margin-bottom: -10%;
+  }
+  .ce{
+    text-align: justify;
+   
   }
