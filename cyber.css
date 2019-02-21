@@ -41,7 +41,8 @@
     padding-bottom:8%;
     font-family:'Alike';
     position: relative;
-    margin-top:-50%;  
+    margin-top:-50%; 
+     
     left:2%;
   }
   @media(max-width:600px){
@@ -50,12 +51,19 @@
   margin-top:-30%;
  }
 }
-  @media(width:768px){
+  @media(width:685px){
     .sh{
       font-size:150%;
-      margin-top:-29%;
+      margin-top:-39%;
     }
 }
+@media(width:768px){
+  .sh{
+    font-size:150%;
+    margin-top:-29%;
+  }
+}
+
 @media(width:1024px){
   .sh{
     font-size:300%;
@@ -235,8 +243,10 @@ h5{
       font-size: 10px;
       padding-left:2%;
       padding-right: 10%;
+      padding-top: 1%;
     }
   }
+ 
   
   .el{
     margin-left:-20%;
@@ -249,4 +259,17 @@ h5{
   .ce{
     text-align: justify;
    
+  }
+  a:link{
+    color:#1078B4;
+  }
+  
+  a:visited{
+    color:#1078B4;
+  }
+  a:hover{
+    color:#1078B4;
+  }
+  a:active{
+    color:#1078B4;
   }

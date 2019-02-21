@@ -138,3 +138,17 @@ padding-top:16%;
 
 outline-color: #B7E4FE;
 }
+
+a:link{
+  color:#1078B4;
+}
+
+a:visited{
+  color:#1078B4;
+}
+a:hover{
+  color:#1078B4;
+}
+a:active{
+  color:#1078B4;
+}
