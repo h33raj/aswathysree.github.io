@@ -231,16 +231,13 @@ h5{
   }
 }
 .pq{
-  font-size: 12px;
-  font-weight: 300;
   
-
-  color:white;
+ color:white;
   padding-left:2%;
   /* padding-top:-10%; */
   position: relative;
   text-align: left;
-  font-size:20px;
+  font-size:18px;
   font-family: 'Source Sans Pro', sans-serif; 
 }
 @media (max-width:700px){
