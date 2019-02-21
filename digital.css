@@ -215,7 +215,7 @@ width: 100%;
 @media (max-width:700px){
   .pq{
     color:white;
-    font-size: 5px;
+    font-size: 4px;
     padding-left:2%;
     padding-right: 10%;
     font-family: 'Source Sans Pro', sans-serif;  
@@ -226,7 +226,7 @@ width: 100%;
     font-size: 12px;
     padding-left:2%;
     color:white;
-    
+    font-family: 'Source Sans Pro', sans-serif;
   }
 }
 @media(width:1024px){
