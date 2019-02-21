@@ -217,6 +217,25 @@ h5{
     width: 15%;
     /* height: 20%; */
   }
+
+  @media(max-width:600px){
+    .img-th{
+      position: static;
+      width: 15%;
+   }
+  }
+    @media(width:768px){
+      .img-th{
+        position: relative;
+        width: 15%;
+       }
+  }
+  @media(width:1024px){
+    .img-th{
+      width: 15%;
+     }
+  }
+
   a:link{
     color:#1078B4;
   }

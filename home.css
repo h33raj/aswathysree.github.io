@@ -37,9 +37,9 @@ h4{
   display: inline-block;
 }
 
-.navbar 
+/* .navbar 
 { padding-top: 0rem; padding-bottom: 0rem; color: #1078B4;
- }
+ } */
 
 .navbar-nav > .active {
   color:#1078B4!important;  **// THIS DOES NOT WORK**
@@ -208,10 +208,30 @@ text-align:center;
   width: 100%;
 }
 .img-th{
-  /* position: absolute; */
+  position: absolute;
   width: 15%;
   /* height: 20%; */
 }
+
+@media(max-width:600px){
+  .img-th{
+    position: static;
+    width: 15%;
+ }
+}
+  @media(width:768px){
+    .img-th{
+      position: relative;
+      width: 15%;
+     }
+}
+@media(width:1024px){
+  .img-th{
+    width: 15%;
+   }
+}
+
+
 .fon{
 
   font-family:'Source Sans Pro', sans-serif;

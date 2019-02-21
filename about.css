@@ -100,6 +100,25 @@ h4{
    
 
   }
+
+  @media(max-width:600px){
+    .im{
+      position: static;
+      width: 15%;
+   }
+  }
+    @media(width:768px){
+      .im{
+        position: relative;
+        width: 15%;
+       }
+  }
+  @media(width:1024px){
+    .img-th{
+      width: 15%;
+     }
+  }
+
   #pa{
     padding-left: -7%;
     color: #1078B4;

@@ -70,6 +70,30 @@ h2{
   border:none;
   outline:none;
 }
+
+.im{
+  position: absolute;
+  width: 15%;
+  /* height: 20%; */
+}
+
+@media(max-width:600px){
+  .im{
+    position: static;
+    width: 15%;
+ }
+}
+  @media(width:768px){
+    .im{
+      position: relative;
+      width: 15%;
+     }
+}
+@media(width:1024px){
+  .im{
+    width: 15%;
+   }
+}
 #r{
 padding-top:16%;
 }
