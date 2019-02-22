@@ -62,16 +62,21 @@ h5{
   
 }
 
-
-#sh{
-  text-align: left;
-  width: 100%;
-  padding-bottom:4%;
-  font-family:'Source Sans Pro', sans-serif;
-  position: relative;
-  margin-top:-15%;
-  
+.fonsize{
+  font-size: 18px;
+  font-weight: 300;
+  font-family: 'Source sans pro';
 }
+
+  #sh{
+    text-align: left;
+    width: 100%;
+    padding-bottom:4%;
+    font-family:'Source Sans Pro', sans-serif;
+    position: relative;
+    margin-top:-24%;
+   
+  }
 
 .navbar-nav > li{
     margin-left:20px;

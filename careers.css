@@ -249,5 +249,9 @@ h5{
   a:active{
     color:#1078B4;
   }
-
+.apply{
+  padding-top:45%;
+  position: relative; 
+  padding-left:12%;
+}
   
