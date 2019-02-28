@@ -79,7 +79,6 @@ padding-right: 0;
 .container-fluid .content {
 position: absolute;
 bottom: 0;
-background:  rgba(0, 0, 0, 0.5);/* Fallback color */
 background:  rgba(15,80,118,100%); /* Black background with 0.5 opacity */
 color: #f1f1f1;
 width: 100%;
